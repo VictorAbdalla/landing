@@ -1,0 +1,22 @@
+.container{
+  color: white;
+  width: 1000px;
+  margin: auto;
+}
+
+.container h1{
+  font-size: 2em;
+}
+
+.container p{
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em ;
+}
+
+.btn-primary{
+  background-color: #1EDD88;
+  border-radius: 50px;
+  padding: 12px 20px;
+  color: white;
+}
